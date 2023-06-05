@@ -71,3 +71,44 @@ In this level we are going to answer these questions:
 
 ### Find the name of the executable file the attacker uploaded to the server.
 ![image](https://github.com/promisejeremiah/Boss-of-the-SOC-BOTS---Threat-Hunting-Using-Splunk/assets/48945500/6d102849-6e81-447e-81cf-27fa99eda9e0)
+
+<br>
+<br>
+
+## Level 3: Using Sysmon and Stream
+In this level we are going to answer the following questions:
+1. Find that file's MD5 hash of the executable file the attackers uploaded to the server.
+2. What was the first brute force password used?
+3. What was the correct password found in the brute force attack?
+4. How many seconds elapsed between the time the brute force password scan identified the correct password and the compromised login? Round to 2 decimal places.
+5. How many unique passwords were attempted in the brute force attack?
+
+<br>
+<br>
+
+### Find that file's MD5 hash of the executable file the attackers uploaded to the server.
+![image](https://github.com/promisejeremiah/Boss-of-the-SOC-BOTS---Threat-Hunting-Using-Splunk/assets/48945500/d8660d68-5b55-4899-94d6-6dc92af266cb)
+
+<br>
+<br>
+
+### What was the first brute force password used?
+![image](https://github.com/promisejeremiah/Boss-of-the-SOC-BOTS---Threat-Hunting-Using-Splunk/assets/48945500/6aa6d341-9fc6-475a-86e5-b8934d8ddc40)
+
+<br>
+<br>
+
+### What was the correct password found in the brute force attack?
+![image](https://github.com/promisejeremiah/Boss-of-the-SOC-BOTS---Threat-Hunting-Using-Splunk/assets/48945500/3ce6cf61-b492-4d6e-a6d2-41c562478abd)
+
+<br>
+<br>
+
+### How many seconds elapsed between the time the brute force password scan identified the correct password and the compromised login? Round to 2 decimal places.
+![image](https://github.com/promisejeremiah/Boss-of-the-SOC-BOTS---Threat-Hunting-Using-Splunk/assets/48945500/f121d782-54d4-4c0c-a059-529e73da064a)
+
+<br>
+<br>
+
+### How many unique passwords were attempted in the brute force attack?
+![image](https://github.com/promisejeremiah/Boss-of-the-SOC-BOTS---Threat-Hunting-Using-Splunk/assets/48945500/3d9dedd0-e753-4ab4-8d58-d143c560828b)
